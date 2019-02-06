@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'S2S-SDK'
-    s.version           = '1.7.5'
+    s.version           = '1.7.6'
     s.summary           = 'S2S-SDK'
     s.homepage          = 'http://www.gfk.com/'
     s.author            = { 'GfK' => 'info@gfk.com' }
